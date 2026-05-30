@@ -9,6 +9,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Allow writing to the repository
     steps:
       # Snake Animation
       - uses: Platane/snk@master
