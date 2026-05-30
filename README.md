@@ -36,6 +36,7 @@
   <img src="https://raw.githubusercontent.com/AsceGamer/AsceGamer/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/AsceGamer/AsceGamer/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AsceGamer&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/AsceGamer/AsceGamer/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
